@@ -1,0 +1,2 @@
+# SliderApp
+Slider uygulamam.
